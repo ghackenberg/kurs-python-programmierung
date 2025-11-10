@@ -33,7 +33,7 @@ Die Folien für die einzelnen Termine sind mit Latex Beamer gemacht. Der Latex-Q
 
 % Laden des eigenen Beamer-Themes
 \newcommand{\basepath}{../../../latex-beamer-theme-fhooe/sources}
-\usepackage{\basepath}
+\usepackage{\basepath/beamerthemefhooe}
 
 \title{Programmieren mit Python}
 \subtitle{Termin X: ...}
